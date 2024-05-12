@@ -1,11 +1,11 @@
 package proxy
 
 import (
-	"github.com/yuriy0803/open-etc-pool-friends/api"
-	"github.com/yuriy0803/open-etc-pool-friends/exchange"
-	"github.com/yuriy0803/open-etc-pool-friends/payouts"
-	"github.com/yuriy0803/open-etc-pool-friends/policy"
-	"github.com/yuriy0803/open-etc-pool-friends/storage"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/api"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/exchange"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/payouts"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/policy"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
 )
 
 type Config struct {

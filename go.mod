@@ -1,4 +1,4 @@
-module github.com/yuriy0803/open-etc-pool-friends
+module github.com/yuriy0803/open-ethashb3-pool-friends
 
 go 1.21
 

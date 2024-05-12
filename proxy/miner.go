@@ -8,7 +8,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	ethash "github.com/yuriy0803/ethashb3"
-	"github.com/yuriy0803/open-etc-pool-friends/util"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/util"
 )
 
 var (

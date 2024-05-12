@@ -10,9 +10,9 @@ import (
 
 	"github.com/yuriy0803/core-geth1/common/hexutil"
 
-	"github.com/yuriy0803/open-etc-pool-friends/rpc"
-	"github.com/yuriy0803/open-etc-pool-friends/storage"
-	"github.com/yuriy0803/open-etc-pool-friends/util"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/rpc"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/util"
 )
 
 const txCheckInterval = 5 * time.Second

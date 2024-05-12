@@ -18,8 +18,8 @@ import (
 	"github.com/gorilla/mux"
 
 	"github.com/robfig/cron"
-	"github.com/yuriy0803/open-etc-pool-friends/storage"
-	"github.com/yuriy0803/open-etc-pool-friends/util"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/util"
 )
 
 type ApiConfig struct {

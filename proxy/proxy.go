@@ -14,10 +14,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/yuriy0803/open-etc-pool-friends/policy"
-	"github.com/yuriy0803/open-etc-pool-friends/rpc"
-	"github.com/yuriy0803/open-etc-pool-friends/storage"
-	"github.com/yuriy0803/open-etc-pool-friends/util"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/policy"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/rpc"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/util"
 )
 
 type ProxyServer struct {

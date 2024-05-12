@@ -11,11 +11,11 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/yuriy0803/open-etc-pool-friends/api"
-	"github.com/yuriy0803/open-etc-pool-friends/exchange"
-	"github.com/yuriy0803/open-etc-pool-friends/payouts"
-	"github.com/yuriy0803/open-etc-pool-friends/proxy"
-	"github.com/yuriy0803/open-etc-pool-friends/storage"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/api"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/exchange"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/payouts"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/proxy"
+	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
 )
 
 var cfg proxy.Config
