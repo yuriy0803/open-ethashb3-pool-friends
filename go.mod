@@ -8,7 +8,6 @@ require (
 	github.com/robfig/cron v1.2.0
 	github.com/yuriy0803/core-geth1 v1.12.18-0.20231209165046-f7272fa572bc
 	github.com/yuriy0803/ethashb3 v0.0.0-20230823074102-1054b1192e82
-	github.com/yuriy0803/open-etc-pool-friends v1.0.5
 	github.com/yvasiyarov/gorelic v0.0.7
 	gopkg.in/redis.v3 v3.6.4
 )
