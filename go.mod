@@ -1,8 +1,6 @@
 module github.com/yuriy0803/open-ethashb3-pool-friends
 
-go 1.21
-
-toolchain go1.21.5
+go 1.19
 
 require (
 	github.com/gorilla/mux v1.8.1
