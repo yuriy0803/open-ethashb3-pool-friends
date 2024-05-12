@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/yuriy0803/core-geth1/common/hexutil"
+	"github.com/ethereum/go-ethereum/common/hexutil"
 
 	"github.com/yuriy0803/open-ethashb3-pool-friends/rpc"
 	"github.com/yuriy0803/open-ethashb3-pool-friends/storage"
