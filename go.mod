@@ -1,6 +1,6 @@
 module github.com/yuriy0803/open-ethashb3-pool-friends
 
-go 1.19
+go 1.21
 
 require (
 	github.com/ethereum/go-ethereum v1.14.3
