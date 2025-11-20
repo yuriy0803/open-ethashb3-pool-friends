@@ -1,6 +1,6 @@
 module github.com/yuriy0803/open-ethashb3-pool-friends
 
-go 1.21
+go 1.24.0
 
 require (
 	github.com/ethereum/go-ethereum v1.14.3
@@ -20,7 +20,7 @@ require (
 	github.com/onsi/gomega v1.33.1 // indirect
 	github.com/yvasiyarov/go-metrics v0.0.0-20150112132944-c25f46c4b940 // indirect
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	gopkg.in/bsm/ratelimit.v1 v1.0.0-20170922094635-f56db5e73a5e // indirect
 )
